@@ -1,5 +1,5 @@
 # Lynel
-Space Invader type game.
+Space Invader type game with arts and music from The Legend of Zelda.
 
 "Download Zip" using the green "Clone or download" button.
 
