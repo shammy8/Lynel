@@ -1,5 +1,5 @@
 # Lynel
-Space Invader type game with arts and music from The Legend of Zelda.
+Space Invader type game with arts and music from The Legend of Zelda. Based on the book "Python Crash Course" by Eric Matthes.
 
 "Download Zip" using the green "Clone or download" button.
 
