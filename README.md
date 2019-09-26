@@ -1,5 +1,5 @@
 # Lynel
-Space Invader type game with assets from The Legend of Zelda. Based on the book "Python Crash Course" by Eric Matthes.
+Space Invader type game with assets from The Legend of Zelda.
 
 "Download Zip" using the green "Clone or download" button.
 
